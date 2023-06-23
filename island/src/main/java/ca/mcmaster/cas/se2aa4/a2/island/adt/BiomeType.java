@@ -1,0 +1,5 @@
+package ca.mcmaster.cas.se2aa4.a2.island.adt;
+
+public enum BiomeType {
+    TROPICAL_RAIN_FOREST, TEMPERATE_RAIN_FOREST, SAVANNA, DESSERT, TEMPERATE_DESERT, TEMPERATE_FOREST, TAIGA, TUNDRA
+}
