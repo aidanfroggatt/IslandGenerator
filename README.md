@@ -1,6 +1,6 @@
 # Assignment A2: Mesh Generator
 
-  - Aidan Froggatt [froggata@mcmaster.ca]
+  - [Aidan Froggatt](https://github.com/aidanfroggatt) [froggata@mcmaster.ca]
   - Ashwin Unnithan [unnithaa@mcmaster.ca]
   - Krish Dogra [dograk1@mcmaster.ca]
 
